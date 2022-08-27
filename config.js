@@ -69,15 +69,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
+        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban*',
     horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+    admin: '*this cmd is for admin only , l can feel you but sorry*',
     botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    owner: '*this cmd is for bot owner only , l can feel you but sorry buddy*',
+    group: '*this feature is only for groups*',
+    private: '*this feature can only used in dm*',
+    bot: '*Special Features for User Bot Number*',
+    wait: '*whoa wait Brainy bot processing*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
